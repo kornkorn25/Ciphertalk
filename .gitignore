@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Created when you run the app or the demo. These folders hold real keys and secrets.
+server_data/
+auditor_vault/
+*_laptop/
+*_phone/
+*_pc/
+*.pem
+demo_run/
+demo_output/
